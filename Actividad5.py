@@ -1,10 +1,10 @@
-# Nombre: Roberto Miguel Rodriguez Hermann
-# Matricula: A00829553
-# Reflexion: Esta actividad final me sirvio bastante para poder entender como llevar contadores y
-# como poder hacer match entre dos tarjetas con diferente nombre. A lo largo de la actividad pude llevar
-# un control claro sobre las diferentes capas de mi proyecto, por ejemplo como la imagen del auto esta en
-# la capa de hasta abajo mientras que los cuadrados estan arriba y hasta arriba el texto de el contenido
-# de las tarjetas.
+# Nombre: Luis Carlos Balderramama
+# Matricula: A00226908
+# Reflexion: Con esta actividad me quedo mas claro las capacidades que tiene el lenguaje de python.
+# Dado que solo utilizé python anteriormente como calculadora y durante esta semana vimos cosas 
+# gráficas vi que se pueden hacer progrmas que funcionen completamente por clicks. Y me hace pregunarme
+# si se pueden hacer cosas al estilo paginas web desde cualquier legnuaje o si todos tienen capacidad
+# de hacer videojuegos como python. 
 
 from random import *
 from turtle import *
